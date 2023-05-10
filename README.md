@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Nextjs 13 Kararlı sürümü kullanılarak oluşturduğum bu uygulamada Unsplash sitesinin içeriğinden api vasıtasıyla resimleri çekerek üzerinde arama yapmayı sağlayan basit bir web uygulamasıdır.
 
 ## Getting Started
 
